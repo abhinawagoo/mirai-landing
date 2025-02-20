@@ -23,7 +23,7 @@ const agents = [
 ];
 
 export default function RecruitmentAgent() {
-  const [playing, setPlaying] = useState(null);
+  const [playing, setPlaying] = useState<number | null>(null); // ✅ Fix here
 
   return (
     <section

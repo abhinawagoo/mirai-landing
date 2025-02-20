@@ -4,8 +4,7 @@ import RecruitmentAgents from "@/components/RecruitmentAgents";
 import Features from "@/components/Features";
 import BookingSection from "@/components/BookingSection";
 import FAQ from "@/components/FAQ";
-import Footer from "@/components/Footer";
-
+import Footer from "@/components/footer";
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white">
