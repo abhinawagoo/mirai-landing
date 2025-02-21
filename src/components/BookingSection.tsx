@@ -24,7 +24,7 @@ export default function BookingSection() {
       {/* Booking Embed */}
       <div className="flex justify-center">
         <iframe
-          src="https://cal.com/mirai.com"
+          src="https://cal.com/mirai.com/30min"
           className="w-full max-w-4xl h-[600px] border-none"
         />
       </div>
